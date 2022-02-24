@@ -1,0 +1,9 @@
+*.exe
+*.out
+*.o
+*.pch
+*.gch
+**/scripts/*.c
+**/scripts/*.gcov
+**/scripts/*.gcda
+**/scripts/*.gcno
